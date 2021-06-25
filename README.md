@@ -1,11 +1,15 @@
-# Sample Snack app
+This is model of a Food App UI.
+Home.js has the code for the Home page. Below are the Screenshots of Home Screen.
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+![foodappUI-1](https://user-images.githubusercontent.com/77259496/123454318-0d828880-d5fe-11eb-91e2-a04147877514.png)
+![foodappUI-2](https://user-images.githubusercontent.com/77259496/123454428-2be88400-d5fe-11eb-9472-9e311fa7945a.png)
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+Details.js has the code for the details page. Below are the Screenshots of Details screen.
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
+![foodappUI-4(details_page)](https://user-images.githubusercontent.com/77259496/123454775-91d50b80-d5fe-11eb-9fa4-7085af400413.png)
+![foodappUI-5(details_page)](https://user-images.githubusercontent.com/77259496/123454823-9ac5dd00-d5fe-11eb-9971-be0ae8fe05b0.png)
+![foodappUI-7(details_page)](https://user-images.githubusercontent.com/77259496/123454871-a44f4500-d5fe-11eb-9bc6-e77b7d84e864.png)
+![foodappUI-6(details_page)](https://user-images.githubusercontent.com/77259496/123454889-ab765300-d5fe-11eb-944a-022af09b8e9b.png)
+![foodappUI_8](https://user-images.githubusercontent.com/77259496/123454910-b29d6100-d5fe-11eb-8894-c33ab77f2163.png)
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
